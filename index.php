@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Kellis Le Louër | Web Developer</title>
     <link rel="stylesheet" href="/assets/css/tailwind.css"/>
+    <link rel="icon" type="image/svg+xml" href="/assets/images/favicon_kellis.svg"/>
 </head>
 <body class="bg-gray-900 overflow-x-hidden">
 <header class="bg-transparent w-full h-28 flex items-center absolute z-10">
