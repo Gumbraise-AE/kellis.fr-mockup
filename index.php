@@ -3,10 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Kellis Le Louër | Web Developer</title>
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/0.0.0-insiders.4a070ac/tailwind.min.css"
-          integrity="sha512-vJu7D5BpjnNXVpLBrl9LKLvmXBNjiLwge8EOZ/YS9XwiChpfKLAlydwIZvoJaDE3LI/kr3goH0MzDzNbBgyoOQ=="
-          crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="/assets/css/tailwind.css"/>
 </head>
 <body class="bg-gray-900 overflow-x-hidden">
 <header class="bg-transparent w-full h-28 flex items-center absolute z-10">
