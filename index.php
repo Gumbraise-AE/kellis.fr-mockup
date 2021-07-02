@@ -17,6 +17,20 @@
 <main>
     <div class="bg-gradient-to-b from-gray-800 to-gray-900 w-full h-3/5 absolute"></div>
 
+    <div class="absolute w-full hidden lg:block">
+        <div class="container w-full mx-auto pt-28">
+            <div class="px-4 relative w-full pt-28">
+                <div class="pt-28 w-full h-screen" style="max-height:660px">
+                    <div style="background: url('/assets/images/back_particle.svg') no-repeat; background-size: contain;"
+                         class="h-1/4 w-full absolute opacity-10 left-0 top-20"></div>
+                    <div style="background: url('/assets/images/back_particle.svg') no-repeat; background-size: contain;  transform: rotate(180deg);"
+                         class="h-2/5 w-full h-max absolute opacity-20 -right-1/4 top-20"></div>
+                    <div style="background: url('/assets/images/back_particle.svg') no-repeat; background-size: contain;"
+                         class="h-2/5 w-full absolute opacity-10 left-0 top-2/3"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="container mx-auto px-4 relative w-full pt-28">
         <section class="header relative sm:items-center pt-24 flex h-screen" style="max-height:660px">
