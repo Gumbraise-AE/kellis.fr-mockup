@@ -13,7 +13,6 @@
 </header>
 <main>
     <div class="bg-gradient-to-b from-gray-800 to-gray-900 w-full h-3/5 absolute"></div>
-
     <div class="absolute w-full hidden lg:block">
         <div class="container w-full mx-auto pt-28">
             <div class="px-4 relative w-full pt-28">
@@ -29,7 +28,7 @@
         </div>
     </div>
 
-    <div class="container mx-auto px-4 relative w-full pt-28">
+    <div class="container mx-auto px-4 relative w-full py-28">
         <section class="header relative sm:items-center pt-24 flex h-screen" style="max-height:660px">
             <div class="sm:items-center flex flex-wrap sm:flex-nowrap sm:space-x-8">
                 <div class="w-full sm:w-1/2">
@@ -61,6 +60,84 @@
                 <div class="w-full sm:w-1/2 mt-24">
                     <img src="/assets/images/computer.svg" class="w-full" alt="Flat Isometric Computer">
                 </div>
+            </div>
+        </section>
+        <section class="relative sm:items-center pt-48 flex h-auto lg:px-32">
+            <div class="flex flex-wrap justify-center">
+
+                <div class="w-full md:w-4/12 px-4 text-center">
+                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                        <div class="px-4 py-5 mx-auto">
+                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
+                        </div>
+                        <div class="px-4 flex-auto">
+                            <p class="text-xl text-white font-semibold">Palamazon</p>
+                            <p class="mt-2 mb-4 text-gray-200">
+                                A marketplace for the video game: Paladium. Players come in the website to buy and sell
+                                their in-game items against in-game money. The website is created with VueJS, NuxtJS,
+                                AdonisJS and Tailwindcss.
+                            </p>
+
+                        </div>
+                        <a href="https://palamazon.fr/">
+                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
+                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
+                                    Visit the website
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="w-full md:w-4/12 px-4 text-center">
+                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                        <div class="px-4 py-5 mx-auto">
+                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
+                        </div>
+                        <div class="px-4 flex-auto">
+                            <p class="text-xl text-white font-semibold">Palamazon</p>
+                            <p class="mt-2 mb-4 text-gray-200">
+                                A marketplace for the video game: Paladium. Players come in the website to buy and sell
+                                their in-game items against in-game money. The website is created with VueJS, NuxtJS,
+                                AdonisJS and Tailwindcss.
+                            </p>
+
+                        </div>
+                        <a href="https://palamazon.fr/">
+                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
+                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
+                                    Visit the website
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="w-full md:w-4/12 px-4 text-center">
+                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                        <div class="px-4 py-5 mx-auto">
+                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
+                        </div>
+                        <div class="px-4 flex-auto">
+                            <p class="text-xl text-white font-semibold">Palamazon</p>
+                            <p class="mt-2 mb-4 text-gray-200">
+                                A marketplace for the video game: Paladium. Players come in the website to buy and sell
+                                their in-game items against in-game money. The website is created with VueJS, NuxtJS,
+                                AdonisJS and Tailwindcss.
+                            </p>
+
+                        </div>
+                        <a href="https://palamazon.fr/">
+                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
+                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
+                                    Visit the website
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
             </div>
         </section>
     </div>
