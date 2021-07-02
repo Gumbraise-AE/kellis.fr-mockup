@@ -7,9 +7,72 @@
 </head>
 <body class="bg-gray-900 overflow-x-hidden">
 <header class="bg-transparent w-full h-28 flex items-center absolute z-10">
-    <div class="container mx-auto px-4">
-        <div class="bg-purple-900 h-24 w-24"></div>
-    </div>
+    <nav class="w-full container px-4 mx-auto">
+        <div class="mx-auto">
+            <div class="relative flex items-center justify-between h-16">
+                <div class="absolute inset-y-0 left-0 flex items-center sm:hidden">
+                    <!-- Mobile menu button-->
+                    <button type="button"
+                            class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-white hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+                            aria-controls="mobile-menu" aria-expanded="false">
+                        <span class="sr-only">Open main menu</span>
+                        <!--
+                          Icon when menu is closed.
+
+                          Heroicon name: outline/menu
+
+                          Menu open: "hidden", Menu closed: "block"
+                        -->
+                        <svg class="block h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                             stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M4 6h16M4 12h16M4 18h16"/>
+                        </svg>
+                        <!--
+                          Icon when menu is open.
+
+                          Heroicon name: outline/x
+
+                          Menu open: "block", Menu closed: "hidden"
+                        -->
+                        <svg class="hidden h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
+                             stroke="currentColor" aria-hidden="true">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                  d="M6 18L18 6M6 6l12 12"/>
+                        </svg>
+                    </button>
+                </div>
+                <div class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start w-full">
+                    <div class="flex-shrink-0 flex items-center">
+                        <img class="block h-8 w-auto" src="/assets/images/logo_kellis.svg" alt="Logo de Kellis">
+                    </div>
+                </div>
+                <div class="sm:block hidden absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
+                    <div class="block sm:ml-6">
+                        <div class="flex space-x-4">
+                            <a href="#"
+                               class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium">Presentation</a>
+                            <a href="#projects"
+                               class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium">Projects</a>
+                            <a href="#contact"
+                               class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium">Contact</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--        <div class="sm:hidden" id="mobile-menu">-->
+        <!--            <div class="px-2 pt-2 pb-3 space-y-1">-->
+        <!--                <a href="#" class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium block">Presentation</a>-->
+        <!--                <a href="#projects" class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium block">Projects</a>-->
+        <!--                <a href="#contact" class="hover:bg-gray-900 hover:text-white transition duration-150 text-gray-300 px-4 py-3 rounded-md text-md font-medium block">Contact</a>-->
+        <!--            </div>-->
+        <!--        </div>-->
+    </nav>
+    <!--    <div class="container mx-auto px-4">-->
+    <!--        <img src="/assets/images/logo_kellis.svg" class="h-8" alt="Logo de Kellis">-->
+    <!--    </div>-->
 </header>
 <main>
     <div class="bg-gradient-to-b from-gray-800 to-gray-900 w-full h-3/5 absolute"></div>
