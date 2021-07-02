@@ -169,7 +169,7 @@
         <div class="container mx-auto">
             <div class="py-4 my-4 relative">
                 <div class="w-full justify-center flex flex-wrap px-4">
-                    <img alt="" src="/assets/images/logo_lg_dark.f87084f.png" class="h-10">
+                    <img alt="" src="/assets/images/logo_kellis.svg" class="h-10">
                 </div>
             </div>
             <!--                <div class="justify-center flex flex-wrap w-full space-x-8 absolute">-->
