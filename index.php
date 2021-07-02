@@ -51,8 +51,8 @@
                         </p>
                         <div class="mt-8">
                             <a
-                                    class="get-started text-white font-bold px-6 py-4 rounded-full outline-none focus:outline-none mr-1 mb-1 bg-purple-500 focus:outline-none focus:ring focus:ring-opacity-75 focus:ring-purple-400 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-200"
-                                    href="/learning-lab/tailwind-starter-kit/documentation/download">My biggest projects
+                                    class="get-started text-white font-bold px-6 py-4 rounded-full outline-none focus:outline-none mr-1 mb-1 bg-purple-700 focus:outline-none focus:ring focus:ring-opacity-75 focus:ring-purple-400 uppercase text-sm shadow hover:shadow-lg ease-linear transition-all duration-200"
+                                    href="#projects">My biggest projects
                             </a>
                         </div>
                     </div>
@@ -62,13 +62,13 @@
                 </div>
             </div>
         </section>
-        <section class="relative sm:items-center pt-48 flex h-auto lg:px-32">
-            <div class="flex flex-wrap justify-center">
+        <section id="projects" class="relative sm:items-center pt-48 flex h-auto lg:px-32">
+            <div class="flex flex-wrap h-auto justify-center">
 
-                <div class="w-full md:w-4/12 px-4 text-center">
-                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                <div class="w-full h-max md:w-4/12 p-4 text-center">
+                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
                         <div class="px-4 py-5 mx-auto">
-                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
+                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
                                  style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
                         </div>
                         <div class="px-4 flex-auto">
@@ -89,22 +89,21 @@
                         </a>
                     </div>
                 </div>
-                <div class="w-full md:w-4/12 px-4 text-center">
-                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                <div class="w-full h-max md:w-4/12 p-4 text-center">
+                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
                         <div class="px-4 py-5 mx-auto">
-                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
-                                 style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
+                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/gumbraise.png');"></div>
                         </div>
                         <div class="px-4 flex-auto">
-                            <p class="text-xl text-white font-semibold">Palamazon</p>
+                            <p class="text-xl text-white font-semibold">Gumbraise</p>
                             <p class="mt-2 mb-4 text-gray-200">
-                                A marketplace for the video game: Paladium. Players come in the website to buy and sell
-                                their in-game items against in-game money. The website is created with VueJS, NuxtJS,
-                                AdonisJS and Tailwindcss.
+                                My web development society. I opened it the day of my 18th birthday, the 3rd of April
+                                2021. I always wanted to open my society, so I did it as quickly as possible.
                             </p>
 
                         </div>
-                        <a href="https://palamazon.fr/">
+                        <a href="https://gumbraise.fr/">
                             <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
                                 <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
                                     Visit the website
@@ -113,22 +112,45 @@
                         </a>
                     </div>
                 </div>
-                <div class="w-full md:w-4/12 px-4 text-center">
-                    <div class="border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full mb-8 shadow-lg rounded-lg transform duration-200">
+                <div class="w-full h-max md:w-4/12 px-4 text-center">
+                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
                         <div class="px-4 py-5 mx-auto">
-                            <div class="bg-gray-800 h-24 w-24 rounded-full bg-center bg-cover"
-                                 style="background-image: url('/assets/images/projects/palamazon.jpg');"></div>
+                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/devsaregenius.svg');"></div>
                         </div>
                         <div class="px-4 flex-auto">
-                            <p class="text-xl text-white font-semibold">Palamazon</p>
+                            <p class="text-xl text-white font-semibold">DevsAreGenius</p>
                             <p class="mt-2 mb-4 text-gray-200">
-                                A marketplace for the video game: Paladium. Players come in the website to buy and sell
-                                their in-game items against in-game money. The website is created with VueJS, NuxtJS,
-                                AdonisJS and Tailwindcss.
+                                A website which developers visit to get the ideas of users who made their development
+                                ideas online on DevsAreGenius (aka. DRG). Made with WordPress and Tailwindcss for purely
+                                educational purposes.
                             </p>
 
                         </div>
-                        <a href="https://palamazon.fr/">
+                        <a href="http://dimi202208.fimlab.fr/drg">
+                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
+                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
+                                    Visit the website
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="w-full h-max md:w-4/12 p-4 text-center">
+                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
+                        <div class="px-4 py-5 mx-auto">
+                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/teaos.jpg');"></div>
+                        </div>
+                        <div class="px-4 flex-auto">
+                            <p class="text-xl text-white font-semibold">TeaOS</p>
+                            <p class="mt-2 mb-4 text-gray-200">
+                                A online operating system where you can surf on the web or upload your files as a cloud.
+                                You can install applications and create applications for the marketplace of TeaOS.
+                            </p>
+
+                        </div>
+                        <a href="https://teaos.software/">
                             <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
                                 <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
                                     Visit the website
