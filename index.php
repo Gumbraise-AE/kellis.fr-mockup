@@ -26,7 +26,7 @@
                     <div style="background: url('/assets/images/back_particle.svg') no-repeat; background-size: contain;  transform: rotate(180deg);"
                          class="h-2/5 w-full h-max absolute opacity-20 -right-1/4 top-20"></div>
                     <div style="background: url('/assets/images/back_particle.svg') no-repeat; background-size: contain;"
-                         class="h-2/5 w-full absolute opacity-10 left-0 top-2/3"></div>
+                         class="h-2/5 w-full absolute opacity-10 left-0 bottom-0"></div>
                 </div>
             </div>
         </div>
