@@ -93,6 +93,29 @@
                     <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
                         <div class="px-4 py-5 mx-auto">
                             <div class="h-24 w-24 rounded-full bg-center bg-cover"
+                                 style="background-image: url('/assets/images/projects/teaos.jpg');"></div>
+                        </div>
+                        <div class="px-4 flex-auto">
+                            <p class="text-xl text-white font-semibold">TeaOS</p>
+                            <p class="mt-2 mb-4 text-gray-200">
+                                A online operating system where you can surf on the web or upload your files as a cloud.
+                                You can install applications and create applications for the marketplace of TeaOS.
+                            </p>
+
+                        </div>
+                        <a href="https://teaos.software/">
+                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
+                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
+                                    Visit the website
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="w-full h-max md:w-4/12 p-4 text-center">
+                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
+                        <div class="px-4 py-5 mx-auto">
+                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
                                  style="background-image: url('/assets/images/projects/gumbraise.png');"></div>
                         </div>
                         <div class="px-4 flex-auto">
@@ -128,29 +151,6 @@
 
                         </div>
                         <a href="http://dimi202208.fimlab.fr/drg">
-                            <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
-                                <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
-                                    Visit the website
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="w-full h-max md:w-4/12 p-4 text-center">
-                    <div class="h-full border-0 outline-none hover:outline-none hover:ring hover:ring-opacity-75 hover:ring-purple-900 space-y-5 relative flex flex-col min-w-0 break-words bg-gray-900 w-full shadow-lg rounded-lg transform duration-200">
-                        <div class="px-4 py-5 mx-auto">
-                            <div class="h-24 w-24 rounded-full bg-center bg-cover"
-                                 style="background-image: url('/assets/images/projects/teaos.jpg');"></div>
-                        </div>
-                        <div class="px-4 flex-auto">
-                            <p class="text-xl text-white font-semibold">TeaOS</p>
-                            <p class="mt-2 mb-4 text-gray-200">
-                                A online operating system where you can surf on the web or upload your files as a cloud.
-                                You can install applications and create applications for the marketplace of TeaOS.
-                            </p>
-
-                        </div>
-                        <a href="https://teaos.software/">
                             <div class="px-6 py-3 rounded-b-lg hover:to-purple-500 bg-gradient-to-b from-gray-900 to-purple-700 transition duration-200">
                                 <div class="flex font-bold w-full text-gray-100 text-center uppercase justify-center">
                                     Visit the website
